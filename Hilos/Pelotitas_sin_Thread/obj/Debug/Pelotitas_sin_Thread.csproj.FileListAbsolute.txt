@@ -1,0 +1,5 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotitas_sin_Thread\bin\Debug\Pelotitas_sin_Thread.dll
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotitas_sin_Thread\bin\Debug\Pelotitas_sin_Thread.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotitas_sin_Thread\obj\Debug\Pelotitas_sin_Thread.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotitas_sin_Thread\obj\Debug\Pelotitas_sin_Thread.dll
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotitas_sin_Thread\obj\Debug\Pelotitas_sin_Thread.pdb

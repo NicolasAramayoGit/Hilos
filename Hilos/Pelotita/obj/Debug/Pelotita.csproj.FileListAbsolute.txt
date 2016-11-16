@@ -1,0 +1,15 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\bin\Debug\Pelotita.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\bin\Debug\Pelotita.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\bin\Debug\Pelotita.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\bin\Debug\Pelotitas_con_Thread.dll
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\bin\Debug\Pelotitas_sin_Thread.dll
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\bin\Debug\Pelotitas_con_Thread.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\bin\Debug\Pelotitas_sin_Thread.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\obj\Debug\Pelotita.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\obj\Debug\Pelotita.Form1.resources
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\obj\Debug\Pelotita.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\obj\Debug\Pelotita.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\obj\Debug\Pelotita.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\obj\Debug\Pelotita.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\obj\Debug\Pelotita.Form2.resources
+c:\users\alumno\documents\visual studio 2012\Projects\Hilos\Pelotita\obj\Debug\Pelotita.Form3.resources
