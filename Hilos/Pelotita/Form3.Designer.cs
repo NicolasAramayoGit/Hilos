@@ -32,6 +32,7 @@
             this.btn_Crear = new System.Windows.Forms.Button();
             this.btn_pausar = new System.Windows.Forms.Button();
             this.btn_reanuda = new System.Windows.Forms.Button();
+            this.btn_destruir = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -73,11 +74,21 @@
             this.btn_reanuda.UseVisualStyleBackColor = true;
             this.btn_reanuda.Click += new System.EventHandler(this.btn_reanuda_Click);
             // 
+            // btn_destruir
+            // 
+            this.btn_destruir.Location = new System.Drawing.Point(478, 209);
+            this.btn_destruir.Name = "btn_destruir";
+            this.btn_destruir.Size = new System.Drawing.Size(98, 23);
+            this.btn_destruir.TabIndex = 4;
+            this.btn_destruir.Text = "Destruir Pelotita";
+            this.btn_destruir.UseVisualStyleBackColor = true;
+            // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(613, 262);
+            this.Controls.Add(this.btn_destruir);
             this.Controls.Add(this.btn_reanuda);
             this.Controls.Add(this.btn_pausar);
             this.Controls.Add(this.btn_Crear);
@@ -95,5 +106,6 @@
         private System.Windows.Forms.Button btn_Crear;
         private System.Windows.Forms.Button btn_pausar;
         private System.Windows.Forms.Button btn_reanuda;
+        private System.Windows.Forms.Button btn_destruir;
     }
 }

@@ -18,11 +18,14 @@ namespace Pelotita
         {
             InitializeComponent();
             
-            //Pausa Pelotita.
+            // Pausa Pelotita.
             this.btn_pausar.Click += new EventHandler(PausarPelotita);
 
-            //this.btn_reanuda.Click += new EventHandler(ReanudarPelotita);
+            // Reanuda Pelotita.
+            this.btn_reanuda.Click += new EventHandler(ReanudarPelotita);
 
+            // Destruye Pelotita.
+            this.btn_destruir.Click += new EventHandler(DestruirPelotita);
 
             this.contador = 0;
         }
@@ -33,15 +36,15 @@ namespace Pelotita
             this.Hilo.Suspend();
         }
 
-        private void ReanudarPelotita(object sender, EventHandler e)
+        private void ReanudarPelotita(object sender, EventArgs e)
         {
             this.Hilo.Resume();
         }
 
-        //private void DestruirPelotita(object sender, EventHandler e)
-        //{
-        //    // codigo.
-        //}
+        private void DestruirPelotita(object sender, EventArgs e)
+        {
+            this.Hilo.Abort();
+        }
 
 
         private void btn_Crear_Click(object sender, EventArgs e)
