@@ -68,6 +68,9 @@ namespace Pelotita
             // Cuenta la cantidad de pelotitas que hay.
             this.contador++;
 
+            //Muestro por pantalla las pelotitas que hay.
+            this.lbl_contador.Text = "" + this.contador;
+
             // Resultado por pantalla solo muestra una pelotita, no deja crear mas.
             this.btn_Crear.Click -= new System.EventHandler(this.btn_Crear_Click);
 

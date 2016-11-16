@@ -33,6 +33,7 @@
             this.btn_pausar = new System.Windows.Forms.Button();
             this.btn_reanuda = new System.Windows.Forms.Button();
             this.btn_destruir = new System.Windows.Forms.Button();
+            this.lbl_contador = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -83,11 +84,21 @@
             this.btn_destruir.Text = "Destruir Pelotita";
             this.btn_destruir.UseVisualStyleBackColor = true;
             // 
+            // lbl_contador
+            // 
+            this.lbl_contador.AutoSize = true;
+            this.lbl_contador.Location = new System.Drawing.Point(420, 214);
+            this.lbl_contador.Name = "lbl_contador";
+            this.lbl_contador.Size = new System.Drawing.Size(35, 13);
+            this.lbl_contador.TabIndex = 5;
+            this.lbl_contador.Text = "label1";
+            // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(613, 262);
+            this.Controls.Add(this.lbl_contador);
             this.Controls.Add(this.btn_destruir);
             this.Controls.Add(this.btn_reanuda);
             this.Controls.Add(this.btn_pausar);
@@ -97,6 +108,7 @@
             this.Text = "Form3";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -107,5 +119,6 @@
         private System.Windows.Forms.Button btn_pausar;
         private System.Windows.Forms.Button btn_reanuda;
         private System.Windows.Forms.Button btn_destruir;
+        private System.Windows.Forms.Label lbl_contador;
     }
 }
